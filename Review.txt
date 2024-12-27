@@ -1,0 +1,5 @@
+Preprocessing tốt, nhưng mà mình thấy các phần visualize ở các khoảng màu thì chưa rõ lắm ở 1 số chart như bar có 2 màu chồng nhau
+Nên để thành 2 bar liền cho dễ nhìn, dễ so sánh, còn density thì nên set màu mờ hơn để dễ nhìn 
+Một số feature bị nhiều outlier quá thì mình nghĩ nên có cách xử lí outlier
+Nhóm làm chi tiết, rõ ràng, phần model thì mình nghĩ nếu đã có 1 chart tổng để so sánh thì có thể giảm bớt chart của từng model
+Vì model mình chỉ quan tâm hiệu quả, nhiều chart nhiều thông tin quá dễ rối
